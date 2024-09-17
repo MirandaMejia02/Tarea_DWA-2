@@ -1,6 +1,6 @@
 const persona = {
     nombre: "Miguel",
-    apellido: "Rivas"
+    apellido: "Miranda"
   }
   
   persona.nombre ="Jesùs";
